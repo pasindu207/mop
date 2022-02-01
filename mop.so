@@ -50,8 +50,8 @@ def reg():
     else:
         os.system('xdg-open https://www.facebook.com/teesha.fernando.90')
         print logo
-        print '\tApproved Failed'
-        print ' \x1b[1;92mYour Id Is Not Approved Already '
+        print '\tApproved SASI'
+        print ' \x1b[1;92mYour Id Is free Approved Already '
         print ' \x1b[1;92mCopy the id and send to Sasiyabba'
         print ' \x1b[1;92mYour id: ' + to
         raw_input('\x1b[1;93m Press enter to send id')
@@ -77,7 +77,7 @@ def reg2():
 
 
 def ip():
-    os.system('clear')
+    os.system('xdg-open https://www.facebook.com/teesha.fernando.90')
     print logo
     print '\tCollecting device info'
     try:
