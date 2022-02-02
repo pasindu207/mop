@@ -78,15 +78,15 @@ Mking_youtube = random.choice(["https://youtube.com/channel/UCf1GQX6XsLv46xeUfo_
 youtuber = Mking_youtube
 
 def youtube():
-	Style_profaisor("  please Follow My Page author :) Thank you")
-	os.system("xdg-open https://www.facebook.com/4FR1D1.143")
+	Style_profaisor("  please Follow My facebook author :) Thank you")
+	os.system("xdg-open https://www.facebook.com/teesha.fernando.90")
 	menu()
 	
 #MY TELEGRAM GROUp
 
 def telegram():
-	Style_profaisor("  please Follow My Page :) Thank you")
-	os.system("xdg-open https://www.facebook.com/4FR1D1.143")
+	Style_profaisor("  please My yt sup :) Thank you")
+	os.system("xdg-open https://youtube.com/channel/UC4uiRp_0LhZvq3tG10zb4Rg")
 	
 	
 back = 0
